@@ -137,7 +137,7 @@
     "instagram": "https://www.instagram.com/laxx__me?stkn=YjFjcHZ6eDBiaHB6",
     "linkedin": null,
     "email": "prabhulaxmi42@gmail.com",
-    "photo": "/images/laxmi-prabhukhanolkar.jpg"
+    "photo": "/images/laxmi.jpg"
   },
   {
     "name": "laxmi-prabhukhanolkar",
@@ -285,5 +285,23 @@
     "linkedin": "https://www.linkedin.com/in/vedant-surve-79811634b/",
     "email": "survevedant2006@gmail.com",
     "photo":"/images/vedant-sruve.jpg"
+},{
+  "name": "sahil-gurav",
+    "fullName": "Sahil Sanjay Gurav",
+    "position": "Member - [Technical Committee]",
+    "phone": "9960140847",
+    "instagram": "NULL",
+    "linkedin": "https://www.linkedin.com/in/sahil-gurav-51a208351",
+    "email": "guravsahil595@gmail.com",
+    "photo":"/images/sahil-gurav.jpg"
+},{
+  "name": "Ved-Khanvilkar",
+    "fullName": "Ved Chandrashekhar Khanvilkar",
+    "position": "Member - [Technical Committee]",
+    "phone": "9766348025",
+    "instagram": "https://www.instagram.com/vedkhanvilkar_30/",
+    "linkedin": "https://www.linkedin.com/in/ved-khanvilkar-v101/",
+    "email": "r240496@famt.ac.in",
+    "photo":"/images/ved.jpg"
 }
 ]
